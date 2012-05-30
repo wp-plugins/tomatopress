@@ -6,7 +6,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Do you like time-managemente techniques like "The Pomodoro Technique"?
+Do you like time-management techniques like "The Pomodoro Technique"?
 You'll love this plugin!!!!
 == Description ==
 
