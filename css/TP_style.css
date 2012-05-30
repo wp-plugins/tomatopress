@@ -1,0 +1,66 @@
+div#TomatoPress_metabox{
+    position:relative;
+}
+
+div#TomatoPress_skin{
+height:40px;
+    width:250px;
+}
+
+div#TomatoPress_timer{
+    width: 120px;
+    height: 25px;
+    position: absolute;
+    left:65px;
+    padding: 10px;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+    
+    div#TomatoPress_timer p{ margin: 0; padding:5px 0;}
+
+div#TomatoPress_controls{
+    text-align: center;
+}
+
+
+.TP_break{
+    color:red !important;
+}
+
+
+/*******************************************************************************
+* TINY MCE Classes                                                             *
+********************************************************************************/
+.tinyMCE_disabled{
+    color:#666;
+}
+
+/*******************************************************************************
+* OVERLAY                                                                      *
+********************************************************************************/
+div#TomatoPress_overlay{
+    position:absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    background-color: rgba(0,0,0,0.9);
+    z-index:99999999 !important;
+    display:none;
+}
+
+div#TomatoPress_timer_overlay{
+    width: 350px;
+    text-align:center;
+    margin: 65px auto !important;
+    font-size: 150px;
+    font-family: sans-serif;
+    color: #FFF;
+}
+
+div#TomatoPress_timer_overlay p{
+    margin-left: -15px;
+    margin-bottom: 50px;
+  
+}
+#tomato_duration_slider{display: none !important;}
